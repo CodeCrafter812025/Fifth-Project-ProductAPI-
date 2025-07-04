@@ -19,6 +19,6 @@ project/
 ├── module-api/ # لایه کنترلر و REST APIها
 ├── module-service/ # لایه کسب‌وکار و منطق برنامه
 ├── module-dataaccess/ # لایه دسترسی به داده (JPA/Hibernate)
-└── module-common/ # تنظیمات امنیتی (اختیاری)
+└── module-common/ # تنظیمات امنیتی 
 
-|
+
